@@ -182,7 +182,7 @@ color: #2E2F42;
     color: #2E2F42;
 }
 
-.team-list {
+.team-item {
     background-color: #FFFFFF
 }
 
@@ -228,6 +228,7 @@ color: #2E2F42;
     letter-spacing: 0.04em;
     cursor: pointer;
     color: #4d5ae5;
+    background-color: #F4F4FD;
 }
 
 .portfolio-btn:hover,
