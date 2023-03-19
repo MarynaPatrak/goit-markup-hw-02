@@ -99,8 +99,8 @@ img {
     color: #434455;
 }
 
-.adress-item:hover,
-.adress-item:focus, {
+.adress-item>.link:hover,
+.adress-item>.link:focus {
     color: #404BBF;
 }
 
