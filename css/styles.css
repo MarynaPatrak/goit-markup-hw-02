@@ -1,3 +1,10 @@
+:root {
+    --main-title-color: #ffffff;
+    --second-title-color: #2E2F42;
+    --main-btn-color: #4D5AE5;
+    --second-btn-color: #F4F4FD;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
