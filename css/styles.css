@@ -91,8 +91,7 @@ img {
     font-style: normal;
 }
 
-.header-mail,
-.header-phone {
+.adress-item>.link {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     line-height: 1.5;
@@ -100,10 +99,8 @@ img {
     color: #434455;
 }
 
-.header-mail:hover,
-.header-mail:focus,
-.header-phone:hover,
-.header-phone:focus {
+.adress-item:hover,
+.adress-item:focus, {
     color: #404BBF;
 }
 
