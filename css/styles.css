@@ -86,7 +86,6 @@ img {
 .header-adress {
     font-size: 16px;
     line-height: 1.5;
-
     letter-spacing: 0.02em;
     color: #434455;
     font-style: normal;
@@ -136,9 +135,9 @@ img {
     background-color: #4D5AE5
  }
 
-.hero .hero-btn:hover,
+.hero-btn:hover,
 .hero-btn:focus {
-    background color: #404BBF;}
+    background-color: #404BBF;}
 
   /*---------------SECTION-FUCTIONS---------------*/
 
@@ -173,7 +172,7 @@ color: #2E2F42;
 /*---------------TEAM---------------*/
 
 .team {
-    background: #F4F4FD;
+    background-color: #F4F4FD;
 }
 
 .team-title {
