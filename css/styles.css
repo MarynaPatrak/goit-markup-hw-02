@@ -60,13 +60,14 @@ img {
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.33;
+    line-height: 1.17;
     letter-spacing: 0.03em;
-    color: #2E2F42;
+    text-transform: uppercase;
+    color: #4D5AE5;
 }
 
-.logo > span, .footer-logo > span {
-    color: #4D5AE5;
+.logo>span {
+    color: #2E2F42;
 }
 
 .header-link {
@@ -81,7 +82,11 @@ img {
 .header-link:focus {
     color: #404BBF;
 }
-    
+
+.header-adress {
+    font-style: normal;
+}
+
 .header-mail,
 .header-phone {
     font-family: 'Roboto', sans-serif;
@@ -121,7 +126,8 @@ img {
     display: flex;
     align-items: center;
     letter-spacing: 0.04em;
-    /*color: #FFFFFF;*/
+    color: #FFFFFF;
+    background-color: #4D5AE5
  }
 
 .hero-btn:hover,
@@ -135,6 +141,7 @@ img {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    cursor: pointer;
     color: #2E2F42;
 }
 
@@ -173,6 +180,9 @@ color: #2E2F42;
     color: #2E2F42;
 }
 
+.team-list {
+    background-color: #FFFFFF
+}
 
 .team-item-title {
     font-weight: 500;
@@ -202,7 +212,7 @@ color: #2E2F42;
     color: #E7E9FC;
 }
 
-.footer-logo {
+.footer-logo>span {
     color: #F4F4FD;
 }
 
